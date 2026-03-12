@@ -112,7 +112,8 @@
     "decoration": "gradient"
   },
   "appearance": {
-    "default": "system"
+    "default": "system",
+    "strict": true
   },
   "banner": {
     "content": "Welcome to D-gen bot docs",
