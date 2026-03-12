@@ -106,8 +106,8 @@
   },
   "background": {
     "color": {
-      "dark": "#22003d",
-      "light": "#ac5fe5"
+      "dark": "#0f001a",
+      "light": "#dbbdf3"
     },
     "decoration": "gradient"
   },
