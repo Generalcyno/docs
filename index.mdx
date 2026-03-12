@@ -13,7 +13,22 @@ Add the bot to a server by [Clicking here](https://discord.com/oauth2/authorize?
   Follow our three step quickstart guide.
 </Card>
 
-/
+```typescript Example of type.ts wrap twoslash
+// type.ts
+type User = { 
+	id: string; 
+	address: {
+		city: string; 
+		postCode?: string // optional property
+	}
+}
+
+//Then you can assign type like this
+const user: User = {
+id: 'newUsre120',
+// Not passing a required property will throw error
+}
+```
 
 ## Make it yours
 
