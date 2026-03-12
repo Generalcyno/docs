@@ -115,10 +115,6 @@
     "default": "system",
     "strict": false
   },
-  "banner": {
-    "content": "Welcome to D-gen bot docs",
-    "dismissible": true
-  },
   "thumbnails": {
     "appearance": "dark"
   },
