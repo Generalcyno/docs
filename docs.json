@@ -113,7 +113,7 @@
   },
   "appearance": {
     "default": "system",
-    "strict": true
+    "strict": false
   },
   "banner": {
     "content": "Welcome to D-gen bot docs",
